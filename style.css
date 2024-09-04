@@ -27,3 +27,20 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+#row1-section1 {
+    background-color: red;
+}
+
+#row1-section2 {
+    background-color: yellow;
+}
+
+h1 {
+    color: rgb(243, 183, 106);
+}
+
+p {
+    color:rgb(251, 64, 64);
+    size: auto;
+}
